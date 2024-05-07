@@ -5,15 +5,10 @@ html {
 .logo {
     width: 90%;
     max-height: 200px;
-    text-align: right;
-    justify-content: right;
-    margin-top: 0;
-}
-
-.logo h2{
     text-align: left;
-    color: white;
-    padding-left: 100px;
+    justify-content: center;
+    padding-top:80px;
+    padding-left: 80px;
 }
 
 .logo img {
